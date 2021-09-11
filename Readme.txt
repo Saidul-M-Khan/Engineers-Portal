@@ -40,14 +40,7 @@ You can logout any time from the Dashboard.
 
 
 Developed By:
-SAIDUL MURSALIN KHAN                  19-41766-3
-NUZHUT TABASSUM                       19-39967-1
-SUMIT KANTI SARKER                    19-41764-3
-
-Supervised By:
-MD. NAZMUL HOSSAIN
-Lecturer
-American International University Bangladesh
+SAIDUL MURSALIN KHAN                  
 
 
 
